@@ -16,9 +16,11 @@
 ---
 
 ### 📚 Research Profile
-- 🧠 Explore my research work on **IEEE Xplore**:  
-  [https://ieeexplore.ieee.org/author/750253372439011](https://ieeexplore.ieee.org/author/750253372439011)
-
+<p align="left">
+  <a href="https://ieeexplore.ieee.org/author/750253372439011" target="_blank">
+    <img src="https://img.shields.io/badge/IEEE%20Xplore-Research%20Profile-blue?style=for-the-badge&logo=ieee&logoColor=white" />
+  </a>
+</p>
 ---
 
 ### 🛠️ Languages and Tools
