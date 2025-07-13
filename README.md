@@ -15,6 +15,12 @@
 
 ---
 
+### 📚 Research Profile
+- 🧠 Explore my research work on **IEEE Xplore**:  
+  [https://ieeexplore.ieee.org/author/750253372439011](https://ieeexplore.ieee.org/author/750253372439011)
+
+---
+
 ### 🛠️ Languages and Tools
 <p align="left">
   <img src="https://img.shields.io/badge/HTML-e34c26?style=for-the-badge&logo=html5&logoColor=white" />
@@ -62,5 +68,4 @@
 ---
 
 ### ⚡ Fun Fact
-diff
 + I break things to learn how they work — and then fix them better!
