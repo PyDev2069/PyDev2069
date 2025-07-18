@@ -56,14 +56,6 @@
 
 ---
 
-### ⏱️ Weekly Dev Time (WakaTime)
-
-<!-- Replace with your own WakaTime username -->
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/wakatime?username=PyDev2069&theme=radical&hide_border=true" />
-</p>
-
----
 
 ### 🧠 Featured Projects (Replace with your links)
 - 🌟 **Homeopathy Medicine Chatbot** – Built using LangChain + FAISS + Gemini
