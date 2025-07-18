@@ -60,7 +60,7 @@
 
 <!-- Replace with your own WakaTime username -->
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/wakatime?username=rounakchakraborti&theme=radical&hide_border=true" />
+  <img src="https://github-readme-stats.vercel.app/api/wakatime?username=PyDev2069&theme=radical&hide_border=true" />
 </p>
 
 ---
