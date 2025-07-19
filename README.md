@@ -56,14 +56,6 @@
 
 ---
 
-
-### 🧠 Featured Projects (Replace with your links)
-- 🌟 **Homeopathy Medicine Chatbot** – Built using LangChain + FAISS + Gemini
-- 📦 **Aurora Visibility Predictor** – Real-time space weather predictor with ML & Flask
-- 🤖 **Blockchain Attack Simulator** – Simulating 51% attack, Sybil attack, and defense
-
----
-
 ### 🧑‍💼 Connect with Me
 
 <p align="center">
