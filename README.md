@@ -50,10 +50,6 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=PyDev2069&layout=compact&theme=radical&hide_border=true" />
 </p>
 
-<p align="center">
-  <img src="https://streak-stats.demolab.com/?user=PyDev2069&theme=radical&hide_border=true" alt="GitHub Streak Stats" />
-</p>
----
 
 ### 🧑‍💼 Connect with Me
 
