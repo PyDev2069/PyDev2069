@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Rounak Chakraborti</h1>
-<h3 align="center">🚀 Developer | 🧠 AI Explorer | 📍 Kolkata, India</h3>
+<h3 align="center">🚀 Developer | 🧠 AI Explorer | 📍 Kolkata, India.</h3>
 
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&color=%23F70000&size=24&center=true&vCenter=true&width=700&height=50&lines=3rd+Year+CSE+Student;Builder+of+Smart+Web+Apps;LangChain+%7C+Gemini+%7C+Neo4j+Fan;Always+Learning+Something+New+💡" />
