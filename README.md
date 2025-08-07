@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Rounak Chakraborti.</h1>
+<h1 align="center">Hi 👋, I'm Rounak Chakraborti</h1>
 <h3 align="center">🚀 Developer | 🧠 AI Explorer | 📍 Kolkata, India.</h3>
 
 <p align="center">
