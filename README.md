@@ -54,7 +54,7 @@ class Rounak:
 
 ### Frameworks & Tools
 ![Flask](https://skillicons.dev/icons?i=flask)
-![Streamlit](https://skillicons.dev/icons?i=streamlit)
+![Amazon Web Services](https://skillicons.dev/icons?i=aws)
 ![Git](https://skillicons.dev/icons?i=git)
 ![GitHub](https://skillicons.dev/icons?i=github)
 ![VSCode](https://skillicons.dev/icons?i=vscode)
