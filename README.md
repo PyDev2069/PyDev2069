@@ -2,7 +2,7 @@
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:FF0000,100:7B00FF&height=200&section=header&text=Rounak%20Chakraborti&fontSize=50&fontColor=ffffff&fontAlignY=38&desc=Developer%20%7C%20AI%20Explorer%20%7C%20Builder&descAlignY=58&descSize=18" />
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&weight=700&color=FF4444&size=22&center=true&vCenter=true&width=700&height=50&lines=3rd+Year+CSE+Student+%F0%9F%8E%93;Builder+of+Smart+Web+Apps+%F0%9F%94%A7;LangChain+%7C+Gemini+%7C+Neo4j+Fan+%F0%9F%A7%A0;Always+Learning+Something+New+%F0%9F%92%A1" />
+<img src="https://readme-typing-svg.demolab.com?font=Orbitron&weight=700&color=FF4444&size=22&center=true&vCenter=true&width=700&height=50&lines=3rd+Year+CSE+Student+%F0%9F%8E%93;Builder+of+Smart+Web+Apps+%F0%9F%94%A7;LangChain+%7C+Gemini+%7C+Neo4j+Fan+%F0%9F%A7%A0;Always+Learning+Something+New+%F0%9F%92%A1" />
 
 <br/>
 
@@ -21,16 +21,16 @@ class Rounak:
     location   = "Kolkata, India 📍"
     university = "Institute of Engineering & Management"
     year       = "3rd Year CSE Student"
-    
+
     current_focus = [
         "Intelligent Automation Tools",
         "Full-Stack Web Apps",
         "LLMs & Natural Language Interfaces"
     ]
-    
+
     exploring = ["LangChain", "Gemini", "Neo4j", "Hugging Face", "Web3"]
     deploy_on = ["Render", "Streamlit", "Replit"]
-    
+
     fun_facts = [
         "🧩 I break stuff to learn how it works",
         "💥 Then build it better",
@@ -44,28 +44,23 @@ class Rounak:
 
 <div align="center">
 
-### Languages
-![Python](https://skillicons.dev/icons?i=python)
-![Java](https://skillicons.dev/icons?i=java)
-![JavaScript](https://skillicons.dev/icons?i=js)
-![C](https://skillicons.dev/icons?i=c)
-![HTML](https://skillicons.dev/icons?i=html)
-![CSS](https://skillicons.dev/icons?i=css)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 
-### Frameworks & Tools
-![Flask](https://skillicons.dev/icons?i=flask)
-![Amazon Web Services](https://skillicons.dev/icons?i=aws)
-![Git](https://skillicons.dev/icons?i=git)
-![GitHub](https://skillicons.dev/icons?i=github)
-![VSCode](https://skillicons.dev/icons?i=vscode)
-![Neo4j](https://skillicons.dev/icons?i=neo4j)
+![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+![VSCode](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
+![Neo4j](https://img.shields.io/badge/Neo4j-008CC1?style=for-the-badge&logo=neo4j&logoColor=white)
 
-### AI / ML Ecosystem
-
-![LangChain](https://img.shields.io/badge/LangChain-1a1a1a?style=for-the-badge&logo=OpenAI&logoColor=white)
+![LangChain](https://img.shields.io/badge/LangChain-1a1a1a?style=for-the-badge&logo=langchain&logoColor=white)
 ![HuggingFace](https://img.shields.io/badge/HuggingFace-FCC624?style=for-the-badge&logo=huggingface&logoColor=black)
 ![Gemini](https://img.shields.io/badge/Gemini-4285F4?style=for-the-badge&logo=google&logoColor=white)
-![Neo4j](https://img.shields.io/badge/Neo4j-008cc1?style=for-the-badge&logo=neo4j&logoColor=white)
 ![Render](https://img.shields.io/badge/Render-1f2937?style=for-the-badge&logo=render&logoColor=white)
 
 </div>
@@ -75,16 +70,20 @@ class Rounak:
 ## 📊 GitHub Analytics
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=PyDev2069&show_icons=true&theme=tokyonight&hide_border=true&border_radius=12&rank_icon=github" height="170" />
+  <img src="https://github-readme-stats.vercel.app/api?username=PyDev2069&show_icons=true&theme=tokyonight&hide_border=true&border_radius=12&rank_icon=github&count_private=false" height="170" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=PyDev2069&layout=compact&theme=tokyonight&hide_border=true&border_radius=12" height="170" />
 </div>
 
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=PyDev2069&theme=tokyonight&hide_border=true&border_radius=12" />
+  <img src="https://streak-stats.demolab.com?user=PyDev2069&theme=tokyonight&hide_border=true&border_radius=12" />
 </div>
 
 <div align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=PyDev2069&theme=tokyo-night&hide_border=true&radius=12" width="95%"/>
+</div>
+
+<div align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=PyDev2069&theme=tokyonight&no-frame=true&row=1&column=6" />
 </div>
 
 ---
