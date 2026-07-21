@@ -2,7 +2,7 @@
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:FF00C8,50:7B00FF,100:00E5FF&height=200&section=header&text=Rounak%20Chakraborti&fontSize=50&fontColor=ffffff&fontAlignY=38&desc=Developer%20%7C%20AI%20Explorer%20%7C%20Builder&descAlignY=58&descSize=18" />
 
-<img src="https://readme-typing-svg.demolab.com?font=Orbitron&weight=700&color=00E5FF&size=22&center=true&vCenter=true&width=700&height=50&lines=3rd+Year+CSE+Student+%F0%9F%8E%93;Builder+of+Smart+Web+Apps+%F0%9F%94%A7;LangChain+%7C+Gemini+%7C+Neo4j+Fan+%F0%9F%A7%A0;Always+Learning+Something+New+%F0%9F%92%A1" />
+<img src="https://readme-typing-svg.demolab.com?font=Orbitron&weight=700&color=00E5FF&size=22&center=true&vCenter=true&width=700&height=50&lines=Final+Year+CSE+Student+%F0%9F%8E%93;Builder+of+Smart+Web+Apps+%F0%9F%94%A7;LangChain+%7C+Gemini+%7C+Neo4j+Fan+%F0%9F%A7%A0;Always+Learning+Something+New+%F0%9F%92%A1" />
 
 <br/>
 
@@ -20,7 +20,7 @@ class Rounak:
     name       = "Rounak Chakraborti"
     location   = "Kolkata, India 📍"
     university = "Institute of Engineering & Management"
-    year       = "3rd Year CSE Student"
+    year       = "Final Year CSE Student"
 
     current_focus = [
         "Intelligent Automation Tools",
