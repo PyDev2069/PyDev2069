@@ -76,17 +76,30 @@ class Rounak:
 
 ---
 
-## GitHub Stats
+## GitHub
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=PyDev2069&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&rank_icon=github" height="160" />
-&nbsp;
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=PyDev2069&layout=compact&theme=tokyonight&hide_border=true" height="160" />
+[![Followers](https://img.shields.io/github/followers/PyDev2069?label=Followers&style=flat-square)](https://github.com/PyDev2069)
+[![Stars](https://img.shields.io/github/stars/PyDev2069?label=Stars&style=flat-square)](https://github.com/PyDev2069?tab=repositories)
+
+**View my GitHub profile and repositories:** https://github.com/PyDev2069
 
 </div>
 
-> *Stats cards may occasionally show errors due to GitHub API rate limits — refresh if they appear broken.*
+> Note: The previous dynamic stat cards sometimes fail due to third-party rate limits. Above are shields.io badges (more reliable) and a direct profile link as a fallback.
+
+---
+
+## Projects
+
+Here are a few highlighted projects — add descriptions and links you'd like shown.
+
+- Repo: <your-repo-1> — Short one-line description
+- Repo: <your-repo-2> — Short one-line description
+- Repo: <your-repo-3> — Short one-line description
+
+(Reply with two or three repos and I can fill these in with links and descriptions.)
 
 ---
 
